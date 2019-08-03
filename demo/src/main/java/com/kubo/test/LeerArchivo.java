@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.example.demo;
+package com.kubo.test;
 
 import java.io.BufferedReader;
 import java.io.File;

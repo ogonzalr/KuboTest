@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.kubo.test;
 
 
 import org.springframework.beans.factory.annotation.Value;
